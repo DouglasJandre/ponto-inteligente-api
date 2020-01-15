@@ -1,4 +1,4 @@
-package com.jandre.pontointeligente.enums;
+package com.jandre.pontointeligente.api.enums;
 
 public enum PerfilEnum {
 

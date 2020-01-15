@@ -7,7 +7,7 @@ import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 
 import com.jandre.pontointeligente.api.entities.Funcionario;
-import com.jandre.pontointeligente.enums.PerfilEnum;
+import com.jandre.pontointeligente.api.enums.PerfilEnum;
 
 public class JwtUserFactory {
 
